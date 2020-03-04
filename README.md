@@ -1,4 +1,4 @@
-# Area calculator, this calcualtor accepts inut in feet and ouput the are in square feet and square meter.
+# Area calculator, this calcualtor accepts area measurements in feet and then ouput the in square feet and square meter.
 # Assuming JDK 1.8 SE is already installed and configured properly on the user's machine.
 Please follow the below steps to execute the calcualtor either on terminal (command prompt) or IDE:
 Terminal:
