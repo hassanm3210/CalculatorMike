@@ -4,5 +4,6 @@ public class ApplicationMain {
 		Calculator calculator = new Calculator();
 		calculator.SquareFeet();
 		calculator.SquareMeter();
+		System.out.println("Calculation completed");
 	}
 }
