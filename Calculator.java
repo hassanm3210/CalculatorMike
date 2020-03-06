@@ -28,7 +28,7 @@ public class Calculator {
 		DecimalFormat df = new DecimalFormat("###.##");
 		double s_feet = length * width;
 		double s_meter = (s_feet * 0.09290304);
-		System.out.println("The area in square meter is:" + df.format(s_meter) + " SQUARE METER");
+		System.out.println("The area in square meters is:" + df.format(s_meter) + " SQUARE METER");
 
 	}
 
